@@ -4,6 +4,7 @@ import EasyFiles as ef
 
 # Return: The probability that two randomly selected mating organisms will produce an individual possessing a dominant allele (and thus displaying the dominant phenotype). Assume that any two organisms can mate
 
+
 input = ef.getInput() # get the input list
 
 # k = homozygous dominant = homoD
